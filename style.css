@@ -1,0 +1,20 @@
+/* BODY */
+body {
+    background-color: #1e2d3b;
+}
+
+/* HEADER */
+header {
+    background-color: #2e3a46;
+}
+
+img {
+    height: 3rem;
+    margin: 0.8rem;
+}
+
+/* MAIN */
+main {
+    background-color: #1e2d3b;
+    height: 100%;
+}
